@@ -1,0 +1,51 @@
+<!--Prathyoosha Chaya Assignment 1 Code Blog, Prof. Robin Hess 09/25/2017-->
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <meta charset="UTF-8">
+    <title>CS 290: Prathyoosha Chaya</title>
+
+  </head>
+  <body>
+	<header> 
+		<img src="osu_logo.png" alt="Oregon State University" align=left hspace="15" width="100" height="100">
+		<h1><font color="3333cc"><br>CS 290: Code Blog</font></h1>
+	</header>
+
+	<article>
+		<h3><br>Assignment 3: <a href="http://web.engr.oregonstate.edu/~chayap/">JS DOM</a></h3>
+			<p>The most challenging part of this assignment was updating the filter results to remove the posts in the DOM that did not match the search results. I was repeatedly getting the following error when I was attempting to filter the items in the DOM: "index.js:7 Uncaught TypeError: filterInputs.getElementById is not a function". I solved this problem by directly accessing the filter-text ID element, instead of accessing it through the filter-input-container first, as I was previously attempting to access the inputs as an array, without specifying the array element.</p>
+			<p>I had previously not known about how to access parts of the DOM and write elements into it. I was familiar with how to make the hidden modal appear on-click of the Add post button and how to set an event listener. This assignment allowed me to practice using the DOM manipulation and event handling concepts that I had learned in lecture.
+			</p>
+			<p>The class Discord server was very useful for me in solving the problem specified above, as it allowed me to get a second opinion on why this error was occurring, which ended up being a simple fix. Additionally, the Mozilla Javascript documentation and the W3Schools tutorials helped me find information on accessing data attributes, and the class lectures helped me understand the material necessary to understand and do the assignment.
+			</p>
+			<p>The main things I had to Google were the specific function calls that needed to use to get certain elements of the DOM (such as spelling "getElementsByClassName()" or "getElementById()". I also had to Google certain error messages that I recieved (such as "Uncaught TypeError: Failed to execute 'appendChild' on 'Node': parameter 1 is not of type 'Node'."), to see examples in documentation for how this error appears.
+			</p>
+		</article>	
+	
+	<article>
+		<h3><br>Assignment 2: <a href="http://web.engr.oregonstate.edu/~chayap/">Matching CSS to mocks.</a></h3>
+			This assignment was practice for using CSS to style a template HTML page to match given specifications/mocks. In the process of styling this page, I faced a few challenges:
+			<p>Header: Initially, my main challenge was to format the header. After sucessfully shifting the page title to be on the same line as the Benny Beaver picture, I had trouble with properly positioning the text to match the mocks. By positioning the text to the bottom of the header and adding padding, I was able to shift its location.</p>
+			<p>Filter box: I initially attempted to format the filter box's fields using the flex box method. However, I found that the styling was much easier to acheive by manually changing the float positions and inner box size/padding/margins.</p>
+			<p>Result Formatting: The most challenging part of the assignment for me was formatting the search results. I attempted to use flex boxes in order to easily space the results, and have them wrap when the viewport shrinks/grows. However, despite the margins and padding on the boxes being the same, I was unable to get them to neatly align in a grid format. I attempted to use various forms of formatting these search results (besides using flex boxes), but the only result that got me the closest to the mocks was by using flex-boxes and altering the margins/padding.</p>
+			<p>In this assignment, I learned CSS syntax and how to apply to create a styled webpage based on generic HTML. Previously, I had not used much CSS, so this assignment allowed me to practically apply the new syntax and concepts (such as flex boxes) that I had learned in class, and may not have fully understood.</p>
+			<p>The resources that helped me the most were the Mozilla CSS documentation, <a href="https://www.w3schools.com/w3css/">W3 Schools CSS Web tutorials</a>, and the class lecture notes on CSS. These resources helped me learn the CSS syntax necessary to style the webpage. For a specific problem relating to the header positioning, I was able to get help from fellow students on the class Discord server.</p>
+			<p>For this assignment, I had to Google the CSS modifiers for specific HTML attributes (such as modifying the "position" property), so that I could properly define the styles that I needed. I also had to Google tutorials for CSS3 Flexboxs, to learn how to properly style flexboxes.</p>
+		</article>
+
+	<article>
+		<h3><br>Assignment 1: Introduction</h3>
+		<!--<h3><br>Assignment 1: <a href="<http://web.engr.oregonstate.edu/~chayap/">Introduction</a></h3>-->
+			The purpose of this assignment was to create an introductory website using only HTML for the CS 290 course. One challenge that I faced in this process was transferring my files to the public student webspace. I originally worked on my webpage through the Z: drive, which created an inaccessible website. 
+			<p>Prior to doing this assignment, I had used HTML and CSS to create a personal website and had a high level understanding of how HTML works. However, this assignment allowed me to refresh my knowledge and understand how the browser interprets HTML on a lower level, along with DOM. I also had not used Git Bash prior to this assignment, so I was able to learn how to push/pull from GitHub through the Git Bash.
+			<p>In order to solve the issue of working in the Y: drive, I used the resources in the Oregon State IT help on public webspaces to fix this issue (<a href="https://it.engineering.oregonstate.edu/where-do-i-put-my-personal-webpages"> Where do I put my personal webpages?"</a>), and Piazza. I also used the class Discord study group to find a suitable text editor for this course, as prior to taking this course I was using only Vim, and I wanted to try an IDE or a text editor suited for Web Development.
+	</article>
+	
+	<footer>
+	<i><p align="right"><font color="888888">Prathyoosha Chaya: Published October 2<sup>nd</sup>, 2017</font></p></i>
+	</footer>
+	
+  </body>
+</html>

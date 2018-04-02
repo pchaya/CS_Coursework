@@ -1,0 +1,6 @@
+Operators;A symbol signifying the compiler to perform arithmetic or logical operations;8;To reference the order of operator precedence, check Appendix B or pg. 1217
+Control;Control structures specify what will be executed under certain conditions;6;To practice switch syntax, do exercises 18-21 in Malik Ch. 4
+Datatypes;A set of values together with a set of operations.;10;Information on data types can be found on pg.37 Malik. 
+Arrays;A series of elements of the same type placed in sorted memory locations;7;To review multidimensional arrays, read example 9-10 Malik
+Classes;A collection of a fixed number of componenets;6;To learn more about constructors, go to pg.669 Malik
+Pointers;Pointers are a variable that contain the memory address of an object.;5;Read exercise 14-6 for information on dynamic memory allocation for two-dimensional arrays (Malik).

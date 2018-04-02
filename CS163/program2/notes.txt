@@ -1,0 +1,35 @@
+lll of arrays (game class) ("trivia"instantiation) to store cards
+public:
+	read from file
+	write to file
+	add card
+	remove card
+	display all cards
+	play
+	setup -> shuffle annd push to stack
+	game();
+	~game();  
+private:
+	card_node * head
+	int num_of_cards
+	
+struct card
+	char * subject
+	char * prompt
+	int rating
+	char * desc
+
+card_node
+	card a_card
+	card_node * next
+
+class card_stack ("deck" instantiation)
+public:
+	push ()
+	pop ()
+	peek ()const
+	display ()const
+
+private:
+	array of pointers (n size)
+	
