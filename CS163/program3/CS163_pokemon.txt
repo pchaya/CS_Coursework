@@ -1,8 +1,0 @@
-Bulbasaur;0;Grass and poison type;Ivysaur;50;One of the starter pokemons
-Wooper;0;Water and ground type;Quagsire;50;Pretty cute
-Sandile;0;Ground and dark type;Krokorok;25;Likes to bury underground
-Snivy;0;Grass type;Servine;30;One of the starter pokemon in Pokemon White
-Portland Rose Garden;1;Electrabuzz, Likitung, Jynx;2
-Waterfront;1;Cubone,Eevee,Poliwag;3
-Pokeball;2;A device used by trainers to carry a Pokemon
-Candy;2;Collected from hatching and catching Pokemon, used for evolution
