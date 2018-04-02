@@ -1,0 +1,124 @@
+Ordered List:Position oriented list
+ASCII:Stands for the American Standard Code for Information Interchange. It is a 7bit code for characters. Because it is only 7 bits long, an ASCII character can be stored in a byte
+Increment:To increase the value of a variable by 1
+Disk:A magnetic storage device that records data on a spinning disk. The bulk of long term storage on a today’s computers is “on the disk”.
+Directed Graphs:Have edges with specified direction; and there can be two edges between a pair of vertices
+Control Structure:Code that changes the order of execution for instance an if-statement conditionally executes code while a loop may perform a section of code repeatedly.
+Bit:A binary digit. The smallest unit of information represented by one of two states
+AI:Artificial Intelligence
+Byte:8 bits. It is often denoted by a capital B as in MB (mega-bytes).
+Lifo:Last item inserted onto the stack is the first item out
+Recursion:The process of solving a problem by reducing it to smaller versions of itself
+Argument:One of the pieces of data provided as input to a procedure or function through the call to the procedure or function.
+Cloud Storage:Rather than the information being stored “locally” on one’s own computer the information is stored on distant machines accessible via the internet.
+Postfix:An operator follows its operands
+Weighted Graph:Edges have labels or numeric values
+Linux:An operating system authored by Linus Torvalds as a free operating system. Companies that distribute Linux make their money in configuration and support. It is based on the UNIX operating systems.
+Boot:To restart a computer as if the computer had been powered down regardless of whether it was on and running or not.
+Hash Function:A function used to map the key of interest into a specific element in a hash table
+Precall:Actions you need to do before you move on with the recursive call
+Local Variable:A variable that is accessible only in a portion of the code. Generally, within a procedure and is created as you enter a procedure and destroyed as you leave.
+Program:An implementation of an algorithm
+Shallow Copy:Two pointers of the same type point to the same memory space/data
+Programming:Constructing a program; usually in a high level language. The art of instructing computers how to store, retrieve, and process data automatically.
+Abstraction:Removing detail of something to focus on a subset of the features without confusing details
+Undirected Graphs:Have at most one edge between any two vertices and there is no direction associated with each edge; you can travel in either direction along the edges
+File Extension:When naming a file there is often a part after the last period in the file name called the file extension that indicates the type of the file such as pdf, jpg, txt, etc.
+Operating System:The program that runs on the computer hardware creating information objects such as files and processes and assures the fair and secure allocation of processor time for processes, access to files, access to devices, and other resources.
+High Level Language:A language that is NOT similar to the one that runs on the hardware and deals more complex data types and control structures than the hardware. Languages like Java, C, C++, Python...
+Loop:A control structure in the code that causes repeated execution of a section of code.
+Data Abstraction:Used as a tool to increase the modularity of a program and build walls between a program and its data structures
+Cpu:Central Processing Unit. Where the computer instructions are executed.
+Database:An organized collection of data and services to access them in a variety of ways relevant to the data.
+Motherboard:The main circuit board generally connecting most major components of a computer such as CPU, memory, I/O devices.
+Reboot:To restart a computer as if the computer had been powered down even though it was turned on and possibly running.
+Binary Search Algorithms:Allow you to efficiently locate elements in array using direct access by dividing the array continually in half until the desired data is found or we determine that the data does not exist within the array
+Pop:A stack operation that removes the topmost item from the stack
+Indirect Member Access Operator:(—>)
+Collision:When a hash function ends up mapping two or more search keys into the same table index
+Sequential Access:A technique for retrieving stored information that requires a sequential search through one item after another on the storage medium.
+Terminal:Any device that can transmit or receive electronic information.
+Address Of Operator:(&)
+Base Case:A special case whose solution you know; often is the stopping condition for a recursive call
+Object:A collection of variables and functions brought together in a programming system to represent a physical thing, its data and its function.
+Compiler:A program for translating a program written in one language into code that can be executed.
+Recursive:A function that calls itself
+String:A sequence of zero or more characters
+Chaining:A collision resolution technique used in a hash table; is designed as an array of linked lists
+Absolute List:Position doesn’t move; when you edit a position, it won’t mess with the rest of the list
+Value Returning Functions:Have a return type and uses the return statement
+Bandwidth:Refers to the volume of information that can be transmitted or processed. It is usually measured in bits or bytes per time unit like “bits per second”.
+Drone:An unmanned flying vehicle (See UAV). May be remote controlled or autonomous.
+Push:A stack operation that adds a new item to the top of the stack
+Algorithm:A set of instructions for accomplishing a task that when executed will terminate.
+Postcall:What you need to do in a stack frame after a recursive call
+Split Screen:The ability of some programs to display information in two or more different areas on the screen at the same time.
+Artificial Intelligence:The subfield of computer science that involves the creation of programs that attempt to do what was formerly believed to be able to be done by humans.
+Dynamic Array:An array created during program execution
+Backtracking:A strategy for guessing at a solution and backing up when an impasse is reached
+Direct Member Access Operator:(.)
+RAM:Random Access Memory. Generally refers to memory that is not in the CPU.
+Memory:Addressable storage for storage and retrieval of bytes of data. Memory generally refers to the memory that is off CPU.
+Postcondition:A statement specifying what is true after the function call is completed
+Void Functions:Don’t have a return type and don’t use the return statement
+Stack:A pile upon you can place things and from which you can only remove whatever is at the top
+IDE:Integrated Development Environment. A software tool to help you write software. Examples include the open source,  Eclipse and NetBeans and the proprietary Microsoft Visual Studio.
+PC:Personal Computer or sometimes stands for a Personal Computer running the Windows operating system.
+Address:a) A location in memory or identifying a particular piece of memory b) An identification that allows access to something such as an internet address which allows one to access a device on the internet
+External Hard Drive:A disk that is a peripheral.
+FIFO:First in first out
+Constants:A memory location whose content is not allowed to change during a program execution
+Leaf:A tree node with NULL left and right child pointers
+Decrement:To decrease the value of a variable
+Integer:A whole number, that is, with no fractional part. Maybe be positive, negative, or zero.
+Dequeue:A queue operation where the you only remove items from the front
+Queue:A first in first out list, where you can only remove from the front and add to the rear
+Sorted List:Value oriented list
+Functional Abstraction:Abstraction to what a section of code will do rather that the details of how it does it. A function definition allows for abstracting the contained code to a function call.
+Full Tree:Where every leaf is at the same level
+Subscript Operator:Provides access to individual elements of an array
+Pointer:A reference that contains the addresses of other variables as their values
+Deep Copy:Two pointers of the same type have their own copies of the data.
+Autonomous:Controlled by computer programs and not people.
+Hard Drive:A disk. A spinning disk of magnetic media for storing data
+Read:To transfer information from an external storage medium into internal storage.
+Floating Point Number:A number with digits following a decimal, (ex: 3.141592653589).
+Call:A statement in a language that starts or invokes a procedure or function.
+IT:Information Technology. This refers to general hardware, OS, and network design and support.
+Hardware:Physical components of a computer or related equipment.
+Interface:The formal way in which two things interact. In particular how humans and machines interact or two pieces of software interact.
+Port:A socket on a computer for attaching the computer to external devices such as a printer or a router.
+Central Processing Unit:Processing unit that takes streams of bits as data and instructions and executes the instructions on the data yielding more data and possibly instructions.
+Software:A set of information that includes at least one program and optionally many programs and data files. The set of information is generally related and used with a specific goal in mind such as image processing software.
+Tail Recursion:When the last statement executed is the recursive call in a recursive function
+Device:A unit or piece of hardware with a specific purpose such as a disk, keyboard, audio board, etc.
+Computer Science:The study of process, data, and computation
+Application:A runnable program that provides some service.
+Prefix:An operator precedes its operands
+Prompt:An onscreen symbol that indicates where to type a command; a message that indicates what action is to be taken.
+Emacs:A classic highly reconfigurable editor that challenges vi for dominance of UNIX based text editing.
+I/O:Input and output.
+HTML:Hypertext Markup Language. A language used to write internet based documents that can refer to each other
+Variable:A memory location whose content may change during program execution
+Trojan Horse:A type of computer virus that is hidden within an innocent-looking program.
+Enqueue:A queue operation where you only add items to the rear
+Computer:An electronic device for storing and processing information based on programs stored in the computer.
+Cloud:In the phrase “in the cloud” refers to information being stored not on one’s own computer but on a distant mass storage device accessible via the internet.
+Binary:The base 2 number system. Integer can be encoded as binary which is a string of 0’s and 1’s
+Programming Language:The rules, conventions, and specific commands used to write a computer program. Most programs must be converted into machine language or binary code so that the instructions can be performed on a specific computer platform
+Executable:A file that can be executed by the operating system.
+Sequential Search:A linear search; searches a list for a given item starting with the first element in the list
+Character:A single letter or symbol that is represented by a small set of bytes in the computer. See ASCII.
+File:A single block of information allocated by an operating system for retention beyond the execution time of any program.
+Core:A processor on a chip. Usually used when there are more than one processor on a single chip.
+Object Oriented Programming:A programming style in which variables and functions are associated in an ob:ject and visibility of the contents of the object is constrained.
+Function Prototype:The function heading without the body of the function
+vi:A screen-oriented text editor originally created for the Unix operating system.
+Syntax:The grammar for a language or the rules to decide if a statement is in the language but not the meaning.
+Global Variable:A variable that is accessible from anywhere in the code. It is also persistent for the duration of the program.
+Precondition:A statement specifying the conditions that must be true before the function is called
+Relative List:Position of the data can shift; when you alter a position, the rest of the list will be affected
+Function:A standalone segment of code with a clear set of inputs and output that performs a specific function and returns a value. It is essentially a procedure that returns a value.
+Complete Tree:Where you have a full tree at height - 1 and at the full height of the tree, nodes are filled from left to right
+Random Access:Technique that permits stored information to be directly retrieved, regardless of its location on the storage medium.
+Chip:An integrated electronic circuit generally with from thousands to billions of components such as transistors and capacitors that perform complex functionality such as addressable memory, CPU, I/O functions.
